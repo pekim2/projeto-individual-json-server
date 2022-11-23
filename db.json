@@ -1,0 +1,108 @@
+{
+  "professores": [
+    {
+      "nome": "Jaqueline",
+      "idade": "53",
+      "displina": "Língua-portuguesa",
+      "cursos": "Pós-Graduação",
+      "id": 1
+    },
+    {
+      "nome": "Marilyn",
+      "idade": "60",
+      "displina": "Biologia",
+      "cursos": "Pós-Graduação",
+      "id": 2
+    },
+    {
+      "nome": "Suellen",
+      "idade": "40",
+      "displina": "Física",
+      "cursos": "Doutorado",
+      "id": 3
+    },
+    {
+      "nome": "Tulyo",
+      "idade": "36",
+      "displina": "Educação física",
+      "cursos": "Mestrado",
+      "id": 4
+    },
+    {
+      "nome": "Magno",
+      "idade": "44",
+      "displina": "Matemática",
+      "cursos": "Doutorado",
+      "id": 5
+    }
+  ],
+  "alunos": [
+    {
+      "nome": "Gabriel",
+      "idade": "18",
+      "curso": "Programação",
+      "periodo_ingresso": "2022",
+      "id": 1
+    },
+    {
+      "nome": "Matheus",
+      "idade": "23",
+      "curso": "Mecânica industrial",
+      "periodo_ingresso": "2020",
+      "id": 2
+    },
+    {
+      "nome": "Guilherme",
+      "idade": "21",
+      "curso": "Design gráfico",
+      "periodo_ingresso": "2021",
+      "id": 3
+    },
+    {
+      "nome": "Paulo",
+      "idade": "20",
+      "curso": "Enfermagem",
+      "periodo_ingresso": "2021",
+      "id": 4
+    },
+    {
+      "nome": "Filipe",
+      "idade": "24",
+      "curso": "Programação",
+      "periodo_ingresso": "2022",
+      "id": 5
+    }
+  ],
+  "funcionarios_geral": [
+    {
+      "nome": "Júlio",
+      "idade": "56",
+      "funcao": "Inspeção",
+      "id": 1
+    },
+    {
+      "nome": "Tereza",
+      "idade": "52",
+      "funcao": "Cozinha",
+      "id": 2
+    },
+    {
+      "nome": "César",
+      "idade": "38",
+      "funcao": "Portaria",
+      "id": 3
+    },
+    {
+      "nome": "Jorge",
+      "idade": "35",
+      "funcao": "Secretaria",
+      "id": 4
+    },
+    {
+      "nome": "Jaqueline",
+      "idade": "49",
+      "funcao": "Faxina",
+      "id": 5
+    }
+  ]
+}
